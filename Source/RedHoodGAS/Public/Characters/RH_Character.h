@@ -14,6 +14,8 @@ class REDHOODGAS_API ARH_Character : public ARH_CharacterBase
 public:
 	ARH_Character();
 
+	virtual void PossessedBy(AController* NewController) override;
+
 protected:
 	virtual void BeginPlay() override;
 };

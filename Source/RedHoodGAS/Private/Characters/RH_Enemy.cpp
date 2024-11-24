@@ -18,4 +18,6 @@ ARH_Enemy::ARH_Enemy()
 void ARH_Enemy::BeginPlay()
 {
 	Super::BeginPlay();
+
+	AbilitySystemComponent->InitAbilityActorInfo(this, this);
 }

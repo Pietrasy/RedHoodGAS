@@ -8,16 +8,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7d91e37e-26b2-43b8-9b82-26f8da66f5a3" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.RedHoodGAS.dir/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.RedHoodGAS.dir/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.RedHoodGAS/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.RedHoodGAS/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.RedHoodGAS/.idea/indexLayout.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.RedHoodGAS/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.RedHoodGAS/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Blueprints/Core/BP_RedHoodGameMode.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/Core/BP_RedHoodGameMode.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RedHoodGAS.uproject" beforeDir="false" afterPath="$PROJECT_DIR$/RedHoodGAS.uproject" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/RedHoodGAS/RedHoodGAS.Build.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Source/RedHoodGAS/RedHoodGAS.Build.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.RedHoodGAS.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.RedHoodGAS.dir/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Blueprints/Core/BP_RedHoodController.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/Core/BP_RedHoodController.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/RedHoodGAS/Private/Characters/RH_Character.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/RedHoodGAS/Private/Characters/RH_Character.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/RedHoodGAS/Private/Characters/RH_Enemy.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/RedHoodGAS/Private/Characters/RH_Enemy.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/RedHoodGAS/Public/Characters/RH_Character.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/RedHoodGAS/Public/Characters/RH_Character.h" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -143,6 +138,7 @@
       <workItem from="1732440715093" duration="103000" />
       <workItem from="1732440875588" duration="636000" />
       <workItem from="1732441539237" duration="2094000" />
+      <workItem from="1732444095821" duration="2985000" />
     </task>
     <servers />
   </component>
